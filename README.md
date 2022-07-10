@@ -1,3 +1,5 @@
+# It's a fork from https://github.com/scaffold-eth/scaffold-eth-challenges/tree/challenge-3-dice-game
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 3: 🎲 Dice Game 
